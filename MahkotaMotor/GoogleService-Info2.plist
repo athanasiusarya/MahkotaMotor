@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>753314168799-cc74cdr624kacus81080quhvmkbeoom7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.753314168799-cc74cdr624kacus81080quhvmkbeoom7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCoyPz0DtG7md2OZia2_gLWOdiSpvgZ5qk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753314168799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>arya.MahkotaMotor</string>
+	<key>PROJECT_ID</key>
+	<string>mahkotamotorapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mahkotamotorapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753314168799:ios:c6ae6f2a1455a68853ce6a</string>
+	<key>DATABASE_URL</key>
+	<string>https://mahkotamotorapp.firebaseio.com</string>
+</dict>
+</plist>

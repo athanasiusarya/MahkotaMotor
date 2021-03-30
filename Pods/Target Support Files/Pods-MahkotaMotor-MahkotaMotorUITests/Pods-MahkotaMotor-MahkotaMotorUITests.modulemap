@@ -1,0 +1,6 @@
+framework module Pods_MahkotaMotor_MahkotaMotorUITests {
+  umbrella header "Pods-MahkotaMotor-MahkotaMotorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
